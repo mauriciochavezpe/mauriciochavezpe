@@ -5,7 +5,7 @@
 
 
 -->
-I live in Perú, I'm developer, actually work how consultant at CSTI - Peru
+I live in Perú, I'm developer, actually work how consultant at CSTI - Perú.
 
 
 - 🌱 I’m currently learning vuejs, nodejs.  
