@@ -5,7 +5,7 @@
 
 
 -->
-I lived in Perú, I'm developer, actually work consultant at CSTI - Peru
+I live in Perú, I'm developer, actually work consultant at CSTI - Peru
 
 
 - 🌱 I’m currently learning vuejs, nodejs.  
@@ -20,7 +20,7 @@ I lived in Perú, I'm developer, actually work consultant at CSTI - Peru
   const framework = [SAPUI5, VUEJS]
   const backend = [nodejs]
   const db = [SQL, HANADB, Postgresql]
-  const others Tools = [dialogflow, sapcai, UIpath, IRPA]  
+  const othersTools = [dialogflow, sapcai, UIpath, IRPA]  
 ```
 
 
