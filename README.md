@@ -1,4 +1,4 @@
-### Hi, I'm Mauricio Chávez 👋 :computer: 
+### Hi, I'm Mauricio Chávez 👋
 
 <!--
 **mauriciochavezpe/mauriciochavezpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,16 @@ I lived in Perú, I'm developer, actually work consultant at CSTI - Peru
     - [Instagram](https://www.instagram.com/mauriciochavez.pe/)
 
 
-**Lenguage and Framework**
+**Lenguage, framework and Tools**
 ``` 
-  const Front-end = [JS,HTML,CSS]
+  const front-end = [JS,HTML,CSS]
   const framework = [SAPUI5, VUEJS]
   const backend = [nodejs]
   const db = [SQL, HANADB, Postgresql]
-  const otherTools = [dialogflow, sapcai, RPA]  
+  const others Tools = [dialogflow, sapcai, UIpath, IRPA]  
 ```
+
+
 
 
 
