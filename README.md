@@ -19,7 +19,7 @@ I live in Perú, I'm developer, actually work how consultant at CSTI - Perú.
   const front-end = [JS,HTML,CSS]
   const framework = [SAPUI5, VUEJS]
   const backend = [nodejs]
-  const db = [SQL, HANADB, Postgresql]
+  const db = [ HANADB, Postgresql]
   const othersTools = [dialogflow, sapcai, UIpath, IRPA]  
 ```
 
