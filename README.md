@@ -5,10 +5,10 @@
 
 
 -->
-I live in Perú, I'm developer, actually work how consultant at CSTI - Perú.
+I live in Perú, I'm developer, actually work how consultant at Everis - Perú.
 
 
-- 🌱 I’m currently learning vuejs, nodejs.  
+- 🌱 I’m currently learning vuejs, java.  
 - 📫 How to reach me: 
     - [Linkedin](https://www.linkedin.com/in/mchavez-pe/)
     - [Instagram](https://www.instagram.com/mauriciochavez.pe/)
