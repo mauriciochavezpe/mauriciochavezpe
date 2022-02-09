@@ -8,7 +8,7 @@
 I live in Perú, I'm developer, actually work how consultant at Everis - Perú.
 
 
-- 🌱 I’m currently learning vuejs, java.  
+- 🌱 I’m currently learning react.  
 - 📫 How to reach me: 
     - [Linkedin](https://www.linkedin.com/in/mchavez-pe/)
     - [Instagram](https://www.instagram.com/mauriciochavez.pe/)
