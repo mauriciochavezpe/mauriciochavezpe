@@ -33,7 +33,7 @@ I am a **Software Architect** focused on building resilient, scalable, and missi
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/mchavez-pe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mchavez-pe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mauriciochavezpe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mchavez-pe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mauriciochavez.pe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauriciochavez.pe" height="30" width="40" /></a>
 </p>
 
